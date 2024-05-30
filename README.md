@@ -15,6 +15,8 @@ Este repositorio contiene el proyecto técnico para Tata Consultancy Services.
 
 ## Instrucciones para Ejecutar
 
+luego de realizar la prueba el archivo excel se encontrara en la raiz del proyecto bajo el nombre de `summary.xlsx`.
+
 Para compilar y ejecutar las pruebas del proyecto, usa el siguiente comando:
 
 ```bash
